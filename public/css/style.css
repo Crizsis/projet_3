@@ -1,0 +1,65 @@
+a, a:hover, a:active, a:visited
+{
+	text-decoration: none;
+}
+
+
+a.chapter_direction, a.me, a.deco_btn {
+	color: #000;
+}
+
+.btn_margin {
+	margin-right: 8px;
+}
+
+.titre 
+{
+	text-align: left;
+}
+
+
+.chapitre 
+{
+	text-align: justify;
+} 
+
+.comment
+{
+	text-align: justify;
+}
+
+.news_titre 
+{
+	text-align: left;
+}
+
+.news_content 
+{
+	text-align: justify;
+}
+
+.new_comment 
+{
+	width: 100%;
+	display: block;
+}
+
+.add_comment 
+{
+	display: inline-block;
+	text-align: right;
+}
+
+.edit {
+	padding-right: 20px;
+}
+
+.text_add_comment .text {
+	resize: none;
+	width: 100%;
+	border-radius: 10px;
+}
+
+.btn_float {
+	float: right;
+}
